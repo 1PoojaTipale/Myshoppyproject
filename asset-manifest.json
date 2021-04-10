@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Myshoppyproject/static/css/main.03f7b54b.chunk.css",
+    "main.js": "/Myshoppyproject/static/js/main.664f156d.chunk.js",
+    "main.js.map": "/Myshoppyproject/static/js/main.664f156d.chunk.js.map",
+    "runtime-main.js": "/Myshoppyproject/static/js/runtime-main.39474897.js",
+    "runtime-main.js.map": "/Myshoppyproject/static/js/runtime-main.39474897.js.map",
+    "static/js/2.2bfe6544.chunk.js": "/Myshoppyproject/static/js/2.2bfe6544.chunk.js",
+    "static/js/2.2bfe6544.chunk.js.map": "/Myshoppyproject/static/js/2.2bfe6544.chunk.js.map",
+    "static/js/3.7cad431f.chunk.js": "/Myshoppyproject/static/js/3.7cad431f.chunk.js",
+    "static/js/3.7cad431f.chunk.js.map": "/Myshoppyproject/static/js/3.7cad431f.chunk.js.map",
+    "index.html": "/Myshoppyproject/index.html",
+    "static/css/main.03f7b54b.chunk.css.map": "/Myshoppyproject/static/css/main.03f7b54b.chunk.css.map",
+    "static/js/2.2bfe6544.chunk.js.LICENSE.txt": "/Myshoppyproject/static/js/2.2bfe6544.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Myshoppyproject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39474897.js",
+    "static/js/2.2bfe6544.chunk.js",
+    "static/css/main.03f7b54b.chunk.css",
+    "static/js/main.664f156d.chunk.js"
+  ]
+}
